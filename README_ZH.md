@@ -18,6 +18,6 @@ windows server 2012
 windows server 2019
    ```
 
-exmaple:
+# exmaple:
 ![images](https://github.com/jhhua/KnowledgementSpider/example/xzaliyun.jpg)
 

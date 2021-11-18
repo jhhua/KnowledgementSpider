@@ -9,3 +9,7 @@ English：![README.md](https://github.com/jhhua/KnowledgementSpider/blob/main/RE
 快来使用KnowledgementSpider吧
 KnowledgementSpider，让学洗梗加滴搞效
 心动不乳行动，赶快点击链接下载吧：
+
+exmaple:
+![images](https://github.com/jhhua/KnowledgementSpider/example/xzaliyun.jpg)
+

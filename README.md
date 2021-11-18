@@ -14,7 +14,7 @@ windows server 2019
 
 
 # exmaple:
-![images](https://github.com/jhhua/KnowledgementSpider//blob/main/example/xzaliyun.jpg)
+![images](https://github.com/jhhua/KnowledgementSpider/blob/main/example/xzaliyun.jpg?raw=true)
 
 
 

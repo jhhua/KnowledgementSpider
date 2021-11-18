@@ -4,7 +4,11 @@
 # KnowledgementSpider
 you can sniffing some web page with KnowledgementSpider....
 
-
+#System
+Windows 10
+windows 7
+windows server 2012
+windows server 2019
 
 
 

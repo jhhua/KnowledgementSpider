@@ -1,4 +1,4 @@
-中文：![README_ZH.md](https://github.com/jhhua/phpshell/blob/main/README_ZH.md)
+中文：![README_ZH.md](https://github.com/jhhua/KnowledgementSpider/blob/main/README_ZH.md)
 
 
 # KnowledgementSpider
